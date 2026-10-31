@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>⚔️ Mikasa BOT — Multi-Device</b><br>
-  Bot de WhatsApp poderoso, leve e completo · Baileys SystemZero<br>
+  Bot de WhatsApp poderoso, leve e completo · Baileys CodeX<br>
   <i>“Se você não consegue se proteger, eu protejo você.”</i>
 </p>
 
