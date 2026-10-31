@@ -6,14 +6,14 @@
 
 <p align="center">
   <b>⚔️ Mikasa BOT — Multi-Device</b><br>
-  Bot de WhatsApp poderoso, leve e completo · Baileys CodeX<br>
+  Bot de WhatsApp poderoso, leve e completo · Baileys Systemzero<br>
   <i>“Se você não consegue se proteger, eu protejo você.”</i>
 </p>
 
 <p align="center">
   <a href="https://github.com/Edydevmodz/MIKASA-BOT-MD"><img src="https://img.shields.io/badge/GitHub-MIKASA--BOT--MD-red?style=for-the-badge&logo=github" /></a>
   <img src="https://img.shields.io/badge/Node.js-18%2B-green?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/Baileys-CodeX-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Baileys-SYSTEMZERO-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Platform-Termux%20%7C%20Linux-black?style=for-the-badge" />
 </p>
 
